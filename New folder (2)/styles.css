@@ -1,0 +1,90 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.background-container {
+    background-image: url('Artboard\ 1.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    
+}
+.opacity{
+    width: 100%;
+    height: 100%;
+    margin: 0%;
+    padding: 0px;
+    background-color:rgba(0, 0, 0, 0.432);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    align-content: center;
+
+   
+
+}
+.header{
+
+    width: 100%;
+    margin-top:0px;
+    padding-top: 5px;
+    background-color:rgb(49, 37, 102);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+    
+}
+.button{
+   
+    margin: 0%;
+    padding-bottom: 20px;
+    display: flex;
+    list-style: none;
+    margin-left: 460px;
+    font-size: 20px;
+    align-items: center;
+    font-family: 'MV Boli';
+    text-decoration: none;
+    
+    
+}
+.content{
+
+    color: #ffffff;
+    margin-top: 200px;
+    margin-left: 245px;
+    font-family: 'Berlin Sans FB Demi';
+    text-align: center;
+    
+    
+}
+.list{
+    color: aliceblue;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+.list:hover
+{
+    color: blueviolet;
+ 
+}
+.footer {
+    background-color:rgb(49, 37, 102);
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
